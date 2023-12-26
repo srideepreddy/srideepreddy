@@ -18,15 +18,11 @@ public class FirstnNatural
 
 //Output:
 //Enter the total numbers:
-//10
+//5
 //First n natural numbers are -------------------
 //1
 //2
 //3
 //4
 //5
-//6
-//7
-//8
-//9
-//10
+ 
